@@ -1,4 +1,5 @@
-## AI is not capable of handling such massive End-to-End Engineering/ETL process
+## 🤖 "AI is not capable of handling a massive End-to-End ETL and Data Analytics process on its own" — An Engineering Perspective
+
 
 ### 🔍 Data Analytics & Business Intelligence
 
