@@ -1,6 +1,6 @@
-**AI cn not handle such End-to-End Engineering/ETL process**
+## AI is not capable of handling such massive End-to-End Engineering/ETL process
 
-## 🔍 Data Analytics & Business Intelligence
+### 🔍 Data Analytics & Business Intelligence
 
 With the clean data models established in the Gold Layer (from the previous Engineering Project), the project executes an end-to-end analytical phase divided into **Exploratory Data Analysis (EDA)** and **Advanced Business Analytics** to uncover actionable insights.
 
